@@ -18,10 +18,11 @@ I'm Julien (aka ROUKIEN). I'm a software engineer from southern France. I'm real
 
 ## How to catch my attention
 
-You may catch my attention by talking about the following topics:
+You may catch my attention by talking about the following topics which may trigger some interesting discussions:
 
  * Nodejs
  * Vue.js
  * PHP
  * Deploying CGI apps (like PHP) in docker could be simpler
  * Feedbacks about unconventional solutions to uncommon problems
+ * don't use yarn unless you need workspaces
