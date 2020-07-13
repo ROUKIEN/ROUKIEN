@@ -1,6 +1,6 @@
 # Hey !
 
-I'm Julien (aka ROUKIEN). I'm a software engineer from southern France. I'm really interested in IoT stuff, microcontrollers & simple cloud infrastructures.
+I'm Julien (aka ROUKIEN). I'm a software engineer from southern France. I'm really interested in IoT stuff, microcontrollers, nodejs & simple cloud infrastructures.
 
 ## What I'm working on
 
@@ -13,3 +13,12 @@ I'm Julien (aka ROUKIEN). I'm a software engineer from southern France. I'm real
  * I'm learning Golang by writing a [periph.io](https://periph.io) driver for a [Grove SHT31 temperature & humidity sensor](https://wiki.seeedstudio.com/Grove-TempAndHumi_Sensor-SHT31) driver.
  * I'm trying to use [k3s](https://k3s.io) to deploy some existing real-world apps with complex deployment patterns (*you know, things you never encounter in hello-world tutorials like shutting down consumers before deploying your code, then restarting them*)
  * paradiddle on an electric drums ! 🥁
+
+## How to catch my attention
+
+You may catch my attention by talking about the following topics:
+
+ * Nodejs
+ * Vue.js
+ * PHP
+ * Deploying CGI apps (like PHP) in docker could be simpler
