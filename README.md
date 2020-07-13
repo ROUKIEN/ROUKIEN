@@ -13,6 +13,7 @@ I'm Julien (aka ROUKIEN). I'm a software engineer from southern France. I'm real
 
  * I'm learning Golang by writing a [periph.io](https://periph.io) driver for a [Grove SHT31 temperature & humidity sensor](https://wiki.seeedstudio.com/Grove-TempAndHumi_Sensor-SHT31) driver.
  * I'm trying to use [k3s](https://k3s.io) to deploy some existing real-world apps with complex deployment patterns (*you know, things you never encounter in hello-world tutorials like shutting down consumers before deploying your code, then restarting them*)
+ * teaching stuff to others - any tips appreciated !
  * paradiddle on an electric drums ! 🥁
 
 ## How to catch my attention
