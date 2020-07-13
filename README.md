@@ -7,6 +7,7 @@ I'm Julien (aka ROUKIEN). I'm a software engineer from southern France. I'm real
  * Writing some articles on some thoughs I had during working on freelance contracts (you might be interested if you ever had to deploy an SPA into a Docker container :-))
  * create rpis clusters & messing with K3S
  * Building a connected, contactless covid19-compliant coffee percolator machine. (Let's call it the CCCCCP machine). I'd love to make it implement the Hyper Text Coffee Pot Control Protocol & expose REST endpoint through a self-hosted wifi endpoint !
+ * On my spare time I'm coding [the ruleless cards game](https://gitlab.com/ROUKIEN/the-ruleless-cards-game), an open source multiplayer game where you can do whatever you want with your cards
 
 ## What I'm learning
 
