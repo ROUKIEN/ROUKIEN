@@ -23,3 +23,4 @@ You may catch my attention by talking about the following topics:
  * Vue.js
  * PHP
  * Deploying CGI apps (like PHP) in docker could be simpler
+ * unconventional solution for uncommon problems
