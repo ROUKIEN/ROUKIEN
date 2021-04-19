@@ -2,6 +2,8 @@
 
 I'm Julien (aka ROUKIEN). I'm a software engineer from southern France. I'm really interested in IoT stuff, microcontrollers, nodejs & simple cloud infrastructures.
 
+![https://www.codewars.com/users/ROUKIEN/badges/large](https://www.codewars.com/users/ROUKIEN/badges/large)
+
 ## What I'm working on
 
  * Writing some articles on some thoughs I had during working on freelance contracts (you might be interested if you ever had to deploy an SPA into a Docker container :-))
